@@ -2,7 +2,7 @@
     $servidor = "localhost";
     $usuario = "root";
     $senha = "";
-    $db = "alunos";
+    $db = "veoowms";
 
     $mysqli = new mysqli($servidor, $usuario, $senha, $db);
 ?>
