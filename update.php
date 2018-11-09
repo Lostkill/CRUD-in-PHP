@@ -34,7 +34,7 @@
     ?>
 
     <?php
-      $conexao = new mysqli('mysql.hostinger.com.br', 'u854643412_veoow', '75321489', 'u854643412_veoow');
+      $conexao = new mysqli('localhost', 'root', '', 'veoowms');
     ?>
 </head>
 

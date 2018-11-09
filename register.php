@@ -63,7 +63,7 @@ if ( isset( $_POST ) && ! empty( $_POST ) ) {
 class Authenticator {
 
   public static $username = "veoow";
-  public static $password = "75321489@veoow*";
+  public static $password = "1234";
 
   public static function check() {
     if (

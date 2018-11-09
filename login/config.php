@@ -12,7 +12,7 @@ if ( ! isset( $_SESSION['logado'] ) ) {
 $_SESSION['login_erro'] = false;
 
 // Variáveis da conexão
-$base_dados  = 'alunos';
+$base_dados  = 'veoowms';
 $usuario_bd  = 'root';
 $senha_bd    = '';
 $host_db     = 'localhost';
